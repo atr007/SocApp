@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SocApp</string>
+    <string name="camera">camera</string>
+    <string name="news">news</string>
+    <string name="camera_settings">camera settings</string>
+</resources>

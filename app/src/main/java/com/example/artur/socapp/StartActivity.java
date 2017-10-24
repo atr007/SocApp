@@ -7,6 +7,7 @@ import android.os.Bundle;
 
 import com.vk.sdk.VKSdk;
 import com.vk.sdk.VKUIHelper;
+import com.vk.sdk.util.VKUtil;
 
 public class StartActivity extends AppCompatActivity {
 
